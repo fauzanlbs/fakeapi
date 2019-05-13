@@ -1,0 +1,12 @@
+{
+    "rawat_jalan": [
+        {"id":1, "dokter": "fauzan"},
+        {"id":2, "dokter": "fauzi"},
+        {"id":3, "dokter": "fauzian"}
+    ],
+    "laboratorium": [
+        {"id":1, "jenis": "darah"},
+        {"id":2, "jenis": "urin"},
+        {"id":3, "jenis": "ctscan"}
+    ]
+}
